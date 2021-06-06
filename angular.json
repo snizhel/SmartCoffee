@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CoffeeSmart"
+    }
+  },
+  "defaultProject": "CoffeeSmart",
+  "cli": {
+    "analytics": "6cc9df9e-c678-4303-b395-646b92c859ab"
+  }
 }
