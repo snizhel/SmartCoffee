@@ -1,3 +1,3 @@
-module.exports={
-    HOST:"0.0.0.0",
-}
+module.exports = {
+  HOST: "0.0.0.0",
+};

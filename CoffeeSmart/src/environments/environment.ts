@@ -4,6 +4,7 @@
 
 export const environment = {
   production: false,
+  endpoint: 'http://127.0.0.1:8080/',
   firebase: {
     apiKey: 'AIzaSyC_1LGV9jt4opsMMxr2kReCddFKK_5-GvQ',
     authDomain: 'smartcoffee-3fc65.firebaseapp.com',
